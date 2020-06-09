@@ -1,5 +1,5 @@
 # SleepQualityTracker
-Sleep Time tracking implementing MVVM, Databinding and Room
+Sleep Time tracking and adding quality of the time recorded
 
 # What I Learned
 
