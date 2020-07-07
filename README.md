@@ -1,5 +1,5 @@
 # SleepQualityTracker
-Sleep Time tracking and adding quality of the time recorded
+Sleep Time tracking and adding quality of the time recorded android app 
 
 # What I Learned
 
